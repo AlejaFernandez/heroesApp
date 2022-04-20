@@ -1,7 +1,8 @@
 
 export interface Auth {
-    id   :string;
-    email:string;
+    id     :string;
+    usuario: string;
+    email  :string;
 
 
 }
